@@ -28,7 +28,7 @@ Orden;Cod. Territorio;Territorio;Renta neta media por hogar
 24;28079BAR156;San Juan Bautista;56.198
 25;28079BAR166;Valdefuentes;55.975
 26;28079BAR056;Castilla;54.870
-27;28079BAR208;Salvador;54.441
+27;28079BAR208;El Salvador;54.441
 28;28079BAR157;Colina;54.247
 29;28079BAR092;Argüelles;53.461
 30;28079BAR211;Alameda de Osuna;52.281
@@ -39,7 +39,7 @@ Orden;Cod. Territorio;Territorio;Renta neta media por hogar
 35;28079BAR044;Guindalera;46.341
 36;28079BAR032;Adelfas;45.843
 37;28079BAR034;Ibiza;45.561
-38;28079BAR083;Peñagrande;45.508
+38;28079BAR083;Peña Grande;45.508
 39;28079BAR142;Horcajo;45.041
 40;28079BAR063;Castillejos;45.025
 41;28079BAR022;Acacias;44.669
@@ -64,7 +64,7 @@ Orden;Cod. Territorio;Territorio;Renta neta media por hogar
 60;28079BAR081;El Pardo;39.062
 61;28079BAR206;Rejas;38.203
 62;28079BAR027;Atocha;37.939
-63;28079BAR165;Apóstol Santiago;36.691
+63;28079BAR165;Apostol Santiago;36.691
 64;28079BAR182;Santa Eugenia;36.427
 65;28079BAR144;Media Legua;35.439
 66;28079BAR106;Cuatro Vientos;35.197
@@ -75,7 +75,7 @@ Orden;Cod. Territorio;Territorio;Renta neta media por hogar
 71;28079BAR154;Concepción;34.263
 72;28079BAR141;Pavones;34.025
 73;28079BAR026;Palos de Moguer;33.938
-74;28079BAR084;Pilar;33.746
+74;28079BAR084;El Pilar;33.746
 75;28079BAR164;Pinar del Rey;33.701
 76;28079BAR023;Chopera;31.934
 77;28079BAR105;Campamento;31.913
@@ -90,7 +90,7 @@ Orden;Cod. Territorio;Territorio;Renta neta media por hogar
 86;28079BAR173;Butarque;30.153
 87;28079BAR103;Lucero;30.076
 88;28079BAR152;Pueblo Nuevo;30.039
-89;28079BAR107;Las Águilas;29.910
+89;28079BAR107;Las Aguilas;29.910
 90;28079BAR101;Los Cármenes;29.541
 91;28079BAR213;Casco Histórico de Barajas;29.450
 92;28079BAR146;Vinateros;29.156
@@ -106,7 +106,7 @@ Orden;Cod. Territorio;Territorio;Renta neta media por hogar
 102;28079BAR112;Opañel;28.031
 103;28079BAR145;Fontarrón;28.014
 104;28079BAR117;Abrantes;27.998
-105;28079BAR102;Puerta del Ángel;27.914
+105;28079BAR102;Puerta del Angel;27.914
 106;28079BAR114;Vista Alegre;27.788
 107;28079BAR111;Comillas;27.579
 108;28079BAR121;Orcasitas;26.858
